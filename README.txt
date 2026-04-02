@@ -1,2 +1,2 @@
 streamlit
-supabase
+supabase_app.py
